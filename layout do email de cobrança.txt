@@ -1,0 +1,15 @@
+<h2>Griff Sistemas</h2>
+<hr />
+<p><strong>Ol&aacute; [NomedoCliente],</strong></p>
+<p><strong><span style="color: #008000;">Voc&ecirc; tem uma nova fatura.</span><br /></strong></p>
+<ul>
+<li><strong>Valor:</strong> [valor]</li>
+<li><strong>Vencimento:</strong> [vencimento]</li>
+<li><strong>N&ordm; da Fatura: </strong>[numeroFatura]</li>
+</ul>
+<p><strong>Refer&ecirc;nte a:</strong> [Descricaodafatura]</p>
+<p><strong>Para efetuar o pagamento, clique no bot&atilde;o abaixo "Realizar Pagamento"</strong></p>
+<p>[link]</p>
+<p>- Central de atendimento no e-mail: <strong>metrequiel@gmail.com</strong><br /> - 2&ordm; Via do Boleto, solicite no e-mail: <strong>metrequiel@gmail.com</strong></p>
+<hr />
+<p><strong>AVISO LEGAL</strong>: Esta mensagem &eacute; destinada exclusivamente para a(s) pessoa(s) a quem &eacute; dirigida, podendo conter informa&ccedil;&atilde;o confidencial e/ou legalmente privilegiada. Se voc&ecirc; n&atilde;o for destinat&aacute;rio desta mensagem, desde j&aacute; fica notificado de abster-se a divulgar, copiar, distribuir, examinar ou, de qualquer forma, utilizar a informa&ccedil;&atilde;o contida nesta mensagem, por ser ilegal. Caso voc&ecirc; tenha recebido esta mensagem por engano, pedimos que nos retorne este E-Mail, promovendo, desde logo, a elimina&ccedil;&atilde;o do seu conte&uacute;do em sua base de dados, registros ou sistema de controle. Fica desprovida de efic&aacute;cia e validade a mensagem que contiver v&iacute;nculos obrigacionais, expedida por quem n&atilde;o detenha poderes de representa&ccedil;&atilde;o.</p>

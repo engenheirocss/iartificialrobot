@@ -1,0 +1,15 @@
+1) envie o arquivo zip para a pasta do seu servidor wwww
+2) extraia o arquivo zip dentro da pasta www
+3) clie o banco de dados ( banco , usuario e senha )
+4) importe o arquivo boletocliente.sql para o banco criado
+4) edite o arquivo config_conexao.php, que esta dentro da pasta classes, com os dados do banco
+
+sucesso.
+
+Visite nosso site:
+
+https://temdetudoprogramas.com
+
+http://temdetudofontes.com
+
+https://www.temdetudoscript.com
