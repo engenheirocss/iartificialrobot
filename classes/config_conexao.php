@@ -1,7 +1,7 @@
 <?php 
 error_reporting (E_ALL & ~ E_NOTICE & ~ E_DEPRECATED);
-$host = 'sql304.epizy.com';
-$usuario = 'epiz_33537257';
-$senha = '';
-$banco = 'epiz_33537257_lembrandovc';
+$host = 'us-cdbr-east-06.cleardb.net';
+$usuario = 'be803668e3992f';
+$senha = '372fa8b7';
+$banco = 'heroku_c20c46f39f705f8';
 ?>
